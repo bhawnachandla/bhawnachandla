@@ -1,11 +1,11 @@
-![Profile Picture](./profile.jpeg)
+![Profile Picture](./123251729.jpeg)
 
 # Hi there, I'm Bhawna! 👋
 
 ## About Me
 I'm a Full Stack Developer with a passion for creating beautiful and functional web applications. I love to learn and explore new technologies.
 
-- 🔭 I’m currently working on [Homyz]
+- 🔭 I’m currently working on Homyz. 
 - 🌱 I’m currently learning **TypeScript** and **GraphQL**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development**, **JavaScript**, **React**, **Node.js**
