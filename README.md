@@ -4,12 +4,11 @@
 ## About Me
 I'm a passionate Full Stack Developer with a knack for creating efficient, scalable, and user-friendly web applications. My journey in web development began with a curiosity for how websites work, and it has blossomed into a full-fledged career.
 
-- 🔭 I’m currently working on Homyz
-- 🌱 I’m currently learning **TypeScript** and **GraphQL**
+- 🔭 I’m currently working on Employee Management System
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development**, **JavaScript**, **React**, **Node.js**
 - 📫 How to reach me: bhawnachandla28@gmail.com
-- ⚡ Fun fact: I love singing, cooking, and reading books
+
 
 ## Skills
 - **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -25,8 +24,7 @@ VisitUs is a travel package booking site developed using the MERN stack. Users c
 ### [Job Seeker (Online Job Portal)](https://github.com/yourusername/job-seeker)
 Job Seeker is a job portal with three panels: admin, user, and company. Users can find jobs based on their requirements, companies can post jobs, and the admin has full control over the portal.
 
-## GitHub Stats
-![Bhawna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/bhawna-chandla-35ab38239/)](https://www.linkedin.com/in/bhawna-chandla-35ab38239/)
